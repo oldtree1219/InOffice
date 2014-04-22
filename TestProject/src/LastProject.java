@@ -2,7 +2,7 @@
 public class LastProject {
 
 	public static void main(String[] args) {
-		System.out.println("¸¶Áö¸·ÀÓ");
+		System.out.println("ë§ˆì§€ë§‰ìš”");
 
 	}
 
